@@ -32,7 +32,7 @@ export default function Intro() {
           </div>
           <div className="flex flex-row mt-0 sm:mt-[-150px] cursor-pointer gap-3 fadeInUp">
             <a href="https://twitter.com/marklabsorg" target="_blank"><div className="hover:translate-y-[-10px] transition-transform duration-700 h-10 p-2 border border-white rounded-full sm:h-12"><FaXTwitter className="w-5 h-5 text-white hover:text-[#01EBC0] sm:w-7 sm:h-7"/></div></a>
-            <a href="https://github.com/marklabsorg" target="_blank"><div className="hover:translate-y-[-10px] transition-transform duration-700 h-10 p-2 border border-white rounded-full sm:h-12"><PiGithubLogoLight className="w-5 h-5 text-white hover:text-[#01EBC0] sm:w-7 sm:h-7"/></div></a>
+            <a href="https://github.com/marklabs5" target="_blank"><div className="hover:translate-y-[-10px] transition-transform duration-700 h-10 p-2 border border-white rounded-full sm:h-12"><PiGithubLogoLight className="w-5 h-5 text-white hover:text-[#01EBC0] sm:w-7 sm:h-7"/></div></a>
             <a href="https://t.me/marklabs" target="_blank"><div className="hover:translate-y-[-10px] transition-transform duration-700 h-10 p-2 border border-white rounded-full sm:h-12"><LiaTelegram className="w-5 h-5 text-white hover:text-[#01EBC0] sm:w-7 sm:h-7"/></div></a>
             <a href="https://marklabs.gitbook.io/marklabs/" target="_blank"><div className="hover:translate-y-[-10px] transition-transform duration-700 h-10 p-2 border border-white rounded-full sm:h-12"><IoWalletOutline className="w-5 h-5 text-white hover:text-[#01EBC0] sm:w-7 sm:h-7"/></div></a>
           </div>
